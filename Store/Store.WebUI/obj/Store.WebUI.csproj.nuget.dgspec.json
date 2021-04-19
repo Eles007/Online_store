@@ -1,0 +1,87 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\lyos0\\source\\repos\\Store\\Store.WebUI\\Store.WebUI.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\lyos0\\source\\repos\\Store\\Store.WebUI\\Store.WebUI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\lyos0\\source\\repos\\Store\\Store.WebUI\\Store.WebUI.csproj",
+        "projectName": "Store.WebUI",
+        "projectPath": "C:\\Users\\lyos0\\source\\repos\\Store\\Store.WebUI\\Store.WebUI.csproj",
+        "packagesPath": "C:\\Users\\lyos0\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lyos0\\source\\repos\\Store\\Store.WebUI\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\lyos0\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.Aspnet.Mvc": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.1.1309.1617, )"
+            },
+            "Ninject": {
+              "target": "Package",
+              "version": "[3.0.1.10, )"
+            },
+            "Ninject.MVC3": {
+              "target": "Package",
+              "version": "[3.0.0.6, )"
+            },
+            "Ninject.Web.Common": {
+              "target": "Package",
+              "version": "[3.0.0.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

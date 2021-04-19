@@ -1,0 +1,9 @@
+C:\Users\lyos0\source\repos\Store\Store.Domain\bin\Debug\netcoreapp3.1\Store.Domain.deps.json
+C:\Users\lyos0\source\repos\Store\Store.Domain\bin\Debug\netcoreapp3.1\Store.Domain.dll
+C:\Users\lyos0\source\repos\Store\Store.Domain\bin\Debug\netcoreapp3.1\Store.Domain.pdb
+C:\Users\lyos0\source\repos\Store\Store.Domain\obj\Debug\netcoreapp3.1\Store.Domain.csprojAssemblyReference.cache
+C:\Users\lyos0\source\repos\Store\Store.Domain\obj\Debug\netcoreapp3.1\Store.Domain.AssemblyInfoInputs.cache
+C:\Users\lyos0\source\repos\Store\Store.Domain\obj\Debug\netcoreapp3.1\Store.Domain.AssemblyInfo.cs
+C:\Users\lyos0\source\repos\Store\Store.Domain\obj\Debug\netcoreapp3.1\Store.Domain.csproj.CoreCompileInputs.cache
+C:\Users\lyos0\source\repos\Store\Store.Domain\obj\Debug\netcoreapp3.1\Store.Domain.dll
+C:\Users\lyos0\source\repos\Store\Store.Domain\obj\Debug\netcoreapp3.1\Store.Domain.pdb
